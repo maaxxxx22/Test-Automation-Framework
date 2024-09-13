@@ -173,6 +173,10 @@ We welcome contributions! Feel free to fork this repository, make your changes, 
 2. You follow best practices for code structure and comments.
 3. Tests are included for any new features or bug fixes.
 
+## Author
+
+- [**Okunta Braide**](https://github.com/maaxxxx22)  
+
 ## License
 
 This project is licensed under the MIT License.
