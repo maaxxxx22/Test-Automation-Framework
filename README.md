@@ -81,7 +81,7 @@ Ensure you have the following installed:
 
 This framework is designed to integrate with **GitHub Actions** for continuous integration and delivery. Follow these steps to set up CI:
 
-### Create GitHub Actions Workflow
+### 1. Create GitHub Actions Workflow
 
 In your repository, add a `.github/workflows/ci.yml` file with the following configuration:
 
