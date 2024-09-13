@@ -163,6 +163,7 @@ TestAutomationFramework/
 ├── .gitignore                       # Git ignore file
 ├── README.md                        # Project README
 └── .github/workflows/ci.yml         # GitHub Actions CI configuration
+```
 
 ## Contributing
 
