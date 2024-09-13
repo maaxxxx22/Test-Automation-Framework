@@ -129,6 +129,7 @@ git commit -m "Added GitHub Actions for CI"
 
 # Push the changes to the main branch
 git push origin main
+```
 
 ### 3. View CI Results
 
